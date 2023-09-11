@@ -11,5 +11,7 @@ class AppImages{
   static const String verify="${imagePath}Group 40.png";
   static const String man="${imagePath}Group 43.png";
   static const String perfect="${imagePath}Group 42.png";
+  static const String scan="${imagePath}Group 45.png";
+  static const String woman="${imagePath}6997109.png";
 
 }

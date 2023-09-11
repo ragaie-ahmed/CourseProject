@@ -2,6 +2,11 @@ import 'package:courseproject/project_ui/presentation/auth/Done.dart';
 import 'package:courseproject/project_ui/presentation/auth/SIgnUp.dart';
 import 'package:courseproject/project_ui/presentation/auth/SignIn.dart';
 import 'package:courseproject/project_ui/presentation/auth/verify.dart';
+import 'package:courseproject/project_ui/presentation/health/health2.dart';
+import 'package:courseproject/project_ui/presentation/health/health3.dart';
+import 'package:courseproject/project_ui/presentation/health/health4.dart';
+import 'package:courseproject/project_ui/presentation/health/health5.dart';
+import 'package:courseproject/project_ui/presentation/health/healthtest.dart';
 import 'package:courseproject/project_ui/presentation/onboarding/onboarding1.dart';
 import 'package:courseproject/tv/domain/entity/movie.dart';
 import 'package:flutter/material.dart';
@@ -25,7 +30,7 @@ class MyApp extends StatelessWidget {
       builder: (_, child) =>
           MaterialApp(
               debugShowCheckedModeBanner: false,
-              home: Signin(
+              home: Health5(
 
               ),
           ),

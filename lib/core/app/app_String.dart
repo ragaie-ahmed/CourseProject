@@ -36,6 +36,26 @@ class AppString{
   static const String account="Your account has been verified\n                successfully";
   static const String done="Done";
   static const String Submit="Submit";
+  static const String resetPassword="Reset Password";
+  static const String resetPasswordsuccess="Password reset success";
+  static const String newPassword="      Set the new password for your account\nso you can login and access all our features. ";
+  static const String fourdigit="Enter the four digit code sent to your\n                     mobile number.";
+  static const String digit4="Enter 4 digits code";
+  static const String resend="Resend in 30 sec";
+  static const String healthtest="Health Test";
+  static const String letsgo="Let's get started.";
+  static const String hello="Hello,";
+  static const String gender="Select your gender,";
+  static const String age="Select your age,";
+  static const String test="Health Test";
+  static const String headache="Headache";
+  static const String save="Save Symptoms";
+  static const String add="Add symptom";
+  static const String Search="Search";
+  static const String search="Search , e.g , headache";
+  static const String select="Select the symptoms you currently have";
+  static const String accurate="Add as many symptoms as you can for the most accurate results";
+
 
 
 

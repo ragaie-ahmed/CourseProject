@@ -39,6 +39,10 @@ dependencies:
   equatable: ^2.0.5
   dio: ^5.3.2
   modal_bottom_sheet: ^2.1.2
+  flutter_otp_text_field: ^1.1.1
+  material_symbols_icons: ^4.2668.0
+  custom_rounded_rectangle_border: ^0.3.0
+  roundcheckbox: ^2.0.5
 
 dev_dependencies:
   flutter_test:
